@@ -1,9 +1,12 @@
 ### Github Profil Open Data Münster 👋
 
-**Links**
+**Open-Data-Links**
 * Open Data Portal Münster: https://opendata.stadt-muenster.de/
 * Daten-Anfragen an die Stadt Münster stellen: https://opendata.stadt-muenster.de/daten/anfragen
 * Wiki mit unserer Open-Data-Linksammlung: https://github.com/od-ms/resources/wiki
+
+**Open Source für Münster**
+* Wenn Du an Civic-Tech Open-Source-Anwendungen für Münster mitarbeiten möchtest, schau im Projekt DIGIFARM.MS vorbei: https://github.com/digifarm-ms  
 
 <!--
 **od-ms/od-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
